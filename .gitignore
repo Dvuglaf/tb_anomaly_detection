@@ -1,0 +1,6 @@
+venv/
+ppe_detection/
+protocol_anomalies/
+synchronize_videos/
+telemetry/
+./tests.py
